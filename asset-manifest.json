@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/PatpetEdu/cv-homepage-react/static/css/main.83a7a957.css",
-    "main.js": "/PatpetEdu/cv-homepage-react/static/js/main.7d7d5377.js",
-    "static/js/592.7498d33d.chunk.js": "/PatpetEdu/cv-homepage-react/static/js/592.7498d33d.chunk.js",
-    "static/media/projectImage.jpg": "/PatpetEdu/cv-homepage-react/static/media/projectImage.e8cabd421964d3329082.jpg",
-    "static/media/grön3.webp": "/PatpetEdu/cv-homepage-react/static/media/grön3.6377dd7fbc5e813bc04c.webp",
-    "static/media/group.jpg": "/PatpetEdu/cv-homepage-react/static/media/group.8fab246ba392c6238723.jpg",
-    "static/media/Grön1.jpg": "/PatpetEdu/cv-homepage-react/static/media/Grön1.9329d067e1d3184fe34e.jpg",
-    "static/media/profile-picture1.jpg": "/PatpetEdu/cv-homepage-react/static/media/profile-picture1.38189a722e2cb140e180.jpg",
-    "static/media/kontaktbild.jpg": "/PatpetEdu/cv-homepage-react/static/media/kontaktbild.fec8da0e59332a3cf17b.jpg",
-    "static/media/PP_logotyp.png": "/PatpetEdu/cv-homepage-react/static/media/PP_logotyp.96018708faf1c9a94e61.png",
-    "static/media/Instagram2.png": "/PatpetEdu/cv-homepage-react/static/media/Instagram2.7d6068500965ad593b24.png",
-    "static/media/Github2.png": "/PatpetEdu/cv-homepage-react/static/media/Github2.07c361f35df7257f19de.png",
-    "static/media/Linkedin2.png": "/PatpetEdu/cv-homepage-react/static/media/Linkedin2.923f45c6f7301a1509be.png",
-    "index.html": "/PatpetEdu/cv-homepage-react/index.html",
-    "main.83a7a957.css.map": "/PatpetEdu/cv-homepage-react/static/css/main.83a7a957.css.map",
-    "main.7d7d5377.js.map": "/PatpetEdu/cv-homepage-react/static/js/main.7d7d5377.js.map",
-    "592.7498d33d.chunk.js.map": "/PatpetEdu/cv-homepage-react/static/js/592.7498d33d.chunk.js.map"
+    "main.css": "/cv-homepage-react/static/css/main.83a7a957.css",
+    "main.js": "/cv-homepage-react/static/js/main.ead8ad88.js",
+    "static/js/592.7498d33d.chunk.js": "/cv-homepage-react/static/js/592.7498d33d.chunk.js",
+    "static/media/projectImage.jpg": "/cv-homepage-react/static/media/projectImage.e8cabd421964d3329082.jpg",
+    "static/media/grön3.webp": "/cv-homepage-react/static/media/grön3.6377dd7fbc5e813bc04c.webp",
+    "static/media/group.jpg": "/cv-homepage-react/static/media/group.8fab246ba392c6238723.jpg",
+    "static/media/Grön1.jpg": "/cv-homepage-react/static/media/Grön1.9329d067e1d3184fe34e.jpg",
+    "static/media/profile-picture1.jpg": "/cv-homepage-react/static/media/profile-picture1.38189a722e2cb140e180.jpg",
+    "static/media/kontaktbild.jpg": "/cv-homepage-react/static/media/kontaktbild.fec8da0e59332a3cf17b.jpg",
+    "static/media/PP_logotyp.png": "/cv-homepage-react/static/media/PP_logotyp.96018708faf1c9a94e61.png",
+    "static/media/Instagram2.png": "/cv-homepage-react/static/media/Instagram2.7d6068500965ad593b24.png",
+    "static/media/Github2.png": "/cv-homepage-react/static/media/Github2.07c361f35df7257f19de.png",
+    "static/media/Linkedin2.png": "/cv-homepage-react/static/media/Linkedin2.923f45c6f7301a1509be.png",
+    "index.html": "/cv-homepage-react/index.html",
+    "main.83a7a957.css.map": "/cv-homepage-react/static/css/main.83a7a957.css.map",
+    "main.ead8ad88.js.map": "/cv-homepage-react/static/js/main.ead8ad88.js.map",
+    "592.7498d33d.chunk.js.map": "/cv-homepage-react/static/js/592.7498d33d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83a7a957.css",
-    "static/js/main.7d7d5377.js"
+    "static/js/main.ead8ad88.js"
   ]
 }
