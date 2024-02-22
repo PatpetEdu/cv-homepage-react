@@ -1,0 +1,32 @@
+[
+    {
+        "utbildning": "Systemutvecklare.NET",
+        "skola": "Edugrade Yrrkeshögskolan",
+        "startDatum": "2023-09-01",
+        "slutDatum": "2025-04-01"
+    },
+    {
+        "utbildning": "HLR utbildning",
+        "skola": "",
+        "startDatum": "2019",
+        "slutDatum": ""
+    },
+    {
+        "utbildning": "Infokomp vuxen utbildning",
+        "skola": "Linköping",
+        "startDatum": "2012",
+        "slutDatum": "2014"
+    },
+    {
+        "utbildning": "Thoren business school",
+        "skola": "",
+        "startDatum": "2009",
+        "slutDatum": "2011"
+    },
+    {
+        "utbildning": "IT gymnasiet",
+        "skola": "",
+        "startDatum": "2007",
+        "slutDatum": "2009"
+    }
+]

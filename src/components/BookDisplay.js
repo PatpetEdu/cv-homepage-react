@@ -4,7 +4,7 @@ import bookData from '../enkeldata.json'
 const BookDisplay=()=>{
     return(
         <div>
-            <h1>Mina Böcker</h1>
+            <h1>Våra Böcker</h1>
             {bookData.böcker.map((bok)=>(
                   <div key={bok.id}>
                     <h2>{bok.titel}</h2>

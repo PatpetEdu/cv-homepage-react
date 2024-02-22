@@ -1,0 +1,26 @@
+[
+    {
+        "position": "Beräkningshandläggare",
+        "arbetsgivare": "KPA-Pension",
+        "startDatum": "2017-10-01",
+        "slutDatum": "Pågående"
+    },
+    {
+        "position": "Folksam Kundrådgivare",
+        "arbetsgivare": "Folksam",
+        "startDatum": "2016-06-01",
+        "slutDatum": "2017-09-30"
+    },
+    {
+        "position": "Releasy customer management AB Kundtjänstmedarbetare",
+        "arbetsgivare": "Releasy customer management AB",
+        "startDatum": "2015-04-24",
+        "slutDatum": "2016-05-31"
+    },
+    {
+        "position": "Senzum AB Kundtjänstmedarbetare",
+        "arbetsgivare": "Senzum AB",
+        "startDatum": "2014-05-28",
+        "slutDatum": "2014-09-14"
+    }
+]
