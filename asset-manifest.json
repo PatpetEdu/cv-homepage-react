@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cv-homepage-react/static/css/main.47a60a84.css",
-    "main.js": "/cv-homepage-react/static/js/main.f476a543.js",
+    "main.css": "/cv-homepage-react/static/css/main.3f90d207.css",
+    "main.js": "/cv-homepage-react/static/js/main.47e9806c.js",
     "static/js/592.7498d33d.chunk.js": "/cv-homepage-react/static/js/592.7498d33d.chunk.js",
     "static/media/projectImage.jpg": "/cv-homepage-react/static/media/projectImage.e8cabd421964d3329082.jpg",
     "static/media/grön3.webp": "/cv-homepage-react/static/media/grön3.6377dd7fbc5e813bc04c.webp",
@@ -14,12 +14,12 @@
     "static/media/Github2.png": "/cv-homepage-react/static/media/Github2.07c361f35df7257f19de.png",
     "static/media/Linkedin2.png": "/cv-homepage-react/static/media/Linkedin2.923f45c6f7301a1509be.png",
     "index.html": "/cv-homepage-react/index.html",
-    "main.47a60a84.css.map": "/cv-homepage-react/static/css/main.47a60a84.css.map",
-    "main.f476a543.js.map": "/cv-homepage-react/static/js/main.f476a543.js.map",
+    "main.3f90d207.css.map": "/cv-homepage-react/static/css/main.3f90d207.css.map",
+    "main.47e9806c.js.map": "/cv-homepage-react/static/js/main.47e9806c.js.map",
     "592.7498d33d.chunk.js.map": "/cv-homepage-react/static/js/592.7498d33d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47a60a84.css",
-    "static/js/main.f476a543.js"
+    "static/css/main.3f90d207.css",
+    "static/js/main.47e9806c.js"
   ]
 }
